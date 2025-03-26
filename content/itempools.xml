@@ -1,5 +1,8 @@
 <ItemPools>
     <Pool Name="treasure">
-        <Item Name="Samira rose" weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <Item Name="Kalista callback" weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+    </Pool>
+    <Pool Name="devil">
+        <Item Name="Kalista callback" weight="1" DecreaseBy="1" RemoveOn="0.1"/>
     </Pool>
 </ItemPools>

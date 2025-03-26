@@ -1,8 +1,0 @@
-<sounds root="sfx/">
-	<sound name="SamiraBoom">
-		<sample weight="1" path="SamiraSoundEffect.wav" />
-	</sound>
-	<sound name="SamiraShoot">
-		<sample weight="1" path="ShootSR.wav" />
-	</sound>
-</sounds>
